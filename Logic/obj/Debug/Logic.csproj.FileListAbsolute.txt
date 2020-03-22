@@ -1,0 +1,8 @@
+E:\VisualStudio Projects\MusicFilesHandler\Logic\bin\Debug\Logic.dll
+E:\VisualStudio Projects\MusicFilesHandler\Logic\bin\Debug\Logic.pdb
+E:\VisualStudio Projects\MusicFilesHandler\Logic\obj\Debug\Interop.Shell32.dll
+E:\VisualStudio Projects\MusicFilesHandler\Logic\obj\Debug\Logic.csproj.ResolveComReference.cache
+E:\VisualStudio Projects\MusicFilesHandler\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+E:\VisualStudio Projects\MusicFilesHandler\Logic\obj\Debug\Logic.dll
+E:\VisualStudio Projects\MusicFilesHandler\Logic\obj\Debug\Logic.pdb
+E:\VisualStudio Projects\MusicFilesHandler\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
